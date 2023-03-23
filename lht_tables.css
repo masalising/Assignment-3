@@ -35,7 +35,8 @@
       color: rgb(11, 12, 145);
       position: relative;
       padding-left: 40%;
-      min-height: 40px;      
+      min-height: 40px;
+      border: 1px dotted gray;      
    }
 
    tr:nth-of-type(odd) {
