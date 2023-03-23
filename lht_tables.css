@@ -18,6 +18,21 @@
    ===============================
 */
 
+@media (max-width: 640px) {
+   table, tbody, tr, td, th, caption {
+      display: block;
+   }
+   thead, h1 {
+      display: none;
+   }
+   caption {
+      color: white;
+      background-color: #777777;
+      font-size: 1.5em;
+      line-height: 2em;
+   }
+ }
+
 
 
 
